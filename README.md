@@ -1,2 +1,2 @@
-# Face-mask-detection-
+# IMAGE CLASSIFICATION
 Designed a neural network model to classify images into categories of people with and without masks. Preprocessed images by converting to gray scale and resizing to uniform dimensions using OpenCV and normalizing pixel values. Applied data augmentation techniques, used Adam optimizer, implemented early stopping. Developed a CNN incorporating convolutional max pooling and dense layers for classification with 95% accuracy.
